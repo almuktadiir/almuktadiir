@@ -1,7 +1,7 @@
-### Hi there 👋
+![About myself](/images/github-cover.png "git-cover image")
 
 
-**almuktadiir/almuktadiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**almuktadiir/almuktadiir** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
