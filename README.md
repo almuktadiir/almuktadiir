@@ -6,7 +6,7 @@
 
 
 #### SKILLS
-<p align="center" style="paddng:20px">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,nodejs,express,firebase,mongodb,figma,netlify,vercel,wordpress" />
   </a>
